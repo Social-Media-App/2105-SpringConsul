@@ -1,2 +1,2 @@
-# gateway
-Spring cloud gateway
+# Consul
+Spring cloud consul
