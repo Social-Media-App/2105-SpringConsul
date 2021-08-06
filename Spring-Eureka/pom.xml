@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org</groupId>
-	<artifactId>Spring-Eureka</artifactId>
+	<artifactId>SpringEureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring-Eureka</name>
+	<name>SpringEureka</name>
 	<description>Spring eureka - proj 3</description>
 	<properties>
 		<java.version>11</java.version>
